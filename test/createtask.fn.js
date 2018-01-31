@@ -13,7 +13,7 @@ module.exports = async(config) => {
   const page = await browser.newPage();
 
   await page.setViewport({
-    width: 680,
+    width: 1280,
     height: 800
   });
 

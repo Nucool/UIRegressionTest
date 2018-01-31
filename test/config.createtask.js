@@ -1,7 +1,7 @@
 module.exports = {
     timeout: 100000,
-    url: "http://staging.claimdi.com/",
-    urlCreateTask: "http://staging.claimdi.com/Task/Create/",
+    url: "http://xxxx.claimdi.com/",
+    urlCreateTask: "http://xxxx.claimdi.com/Task/Create/",
     ids: {
         form: "#frmBody",
         username: "#txtuser",
@@ -15,7 +15,7 @@ module.exports = {
     },
     data: {
         username: "admin",
-        password: "123456",
+        password: "xxxx",
         informerName: 'นภดล ทดสอบ',
         informerTel: '1231232111',
         insId: 'IN0001',

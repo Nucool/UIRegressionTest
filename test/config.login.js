@@ -1,6 +1,6 @@
 module.exports = {
     timeout: 20000,
-    url: "http://staging.claimdi.com/",
+    url: "http://xxxx.claimdi.com/",
     ids: {
         form: "#frmBody",
         username: "#txtuser",
@@ -9,6 +9,6 @@ module.exports = {
     },
     data: {
         username: "admin",
-        password: "123456"
+        password: "xxxx"
     }
 };
